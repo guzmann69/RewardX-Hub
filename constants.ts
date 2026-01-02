@@ -6,7 +6,7 @@ export interface Reward {
   img: string;
 }
 
-export const LOCKER_URL = 'https://lockedapp.org/cl/i/rndwq4';
+export const LOCKER_URL = 'https://lockedapp.org/sl/x6d9d';
 export const TIMER_DURATION_SECONDS = 180;
 
 export const REWARDS: Reward[] = [
@@ -20,7 +20,7 @@ export const REWARDS: Reward[] = [
     id: 'amazon',
     title: 'Amazon Gift Card $50',
     category: 'Shopping',
-    img: 'https://imgs.search.brave.com/vTTriTvr8ldm0WDDOQUJtVkBs0HejYcOI-VTLZVaMKM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aWV4Z2FtZXMuY29t/L21lZGlhL2NhdGFs/b2cvcHJvZHVjdC9j/YWNoZS8wMDhmMTE1/MTk4NWQ1YTJhMWJi/NDg1NzllYTlhMmYx/Yy9hL20vYW1hem9u/LWdpZnQtY2FyZC01/MHVzZC5qcGc'
+    img: 'https://imgs.search.brave.com/Tjm771cPUkElpRSzh6HdSnxfHyRg1jbf6LlcML8uShk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi8lQzIl/QTMtYW1hem9uLWdp/ZnQtY2FyZC13aGl0/ZS1iYWNrZ3JvdW5k/LXN3aW5kb24tdWst/anVuZS0lQzIlQTMt/YW1hem9uLWdpZnQt/Y2FyZC13aGl0ZS1i/YWNrZ3JvdW5kLTEy/MDA3NjA1OC5qcGc'
   },
   {
     id: 'ps5',
@@ -32,13 +32,7 @@ export const REWARDS: Reward[] = [
     id: 'roblox',
     title: 'Roblox 800 Robux',
     category: 'Gaming',
-    img: 'https://imgs.search.brave.com/ibt2kupBXnPs2dK8biIj60G-1Hm318SrpLd2DhlHdjg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/Ynlub2dhbWUuY29t/L3Byb2R1Y3QvMTc1/MTg3NTE4ODcxMi53/ZWJw'
-  },
-  {
-    id: 'steam',
-    title: 'Steam $100 USD',
-    category: 'Gaming',
-    img: 'https://imgs.search.brave.com/Wa6cmDECZlCUdvq5DLSHpoNdU6CEhmWJW2UbhNd3Orw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Z2FtZXJzLXNpZGUu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIzLzA2L1N0ZWFt/LVdhbGxldC1VUy0x/MDAucG5n'
+    img: 'https://imgs.search.brave.com/ibt2kupBXnPs2dK8biIj60G-1Hm318SrpLd2DhlHdjg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/Ynlub2dhbWUu/Y29tL3Byb2R1Y3Qv/MTc1/MTg3NTE4ODcxMi53/ZWJw'
   },
   {
     id: 'xbox',
