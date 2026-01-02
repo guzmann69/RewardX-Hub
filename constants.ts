@@ -32,7 +32,7 @@ export const REWARDS: Reward[] = [
     id: 'roblox',
     title: 'Roblox 800 Robux',
     category: 'Gaming',
-    img: 'https://imgs.search.brave.com/ibt2kupBXnPs2dK8biIj60G-1Hm318SrpLd2DhlHdjg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/Ynlub2dhbWUu/Y29tL3Byb2R1Y3Qv/MTc1/MTg3NTE4ODcxMi53/ZWJw'
+    img: 'https://imgs.search.brave.com/JOaQi_RYSfnOidBflILVi_cqOBLL5vLEo2ULw_Maf_s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZHJpZmZsZS5j/b20vZml0LWluLzcy/MHg1MTIvbWVkaWEt/Z2FsbGVyeS9wcm9k/dWN0aW9uLzYzMGM0/MzBlLTk1NDYtNDY4/ZS1hMGQ2LWEzYTFh/MzcyMTg1NV9yb2Js/b3gtZ2xvYmFsLTgw/MHJvYnV4LTQwNDcw/LnBuZw'
   },
   {
     id: 'xbox',
